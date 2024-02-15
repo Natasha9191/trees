@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Feb 2024 17:28:28 at https://www.photoroom.com/tools/background-remover +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.photoroom.com/tools/background-remover -O1 "C:\Users\Sanvi Sardana\Downloads\trees" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:28:29	Warning: 	Note: due to https://www.photoroom.com remote robots.txt rules, links beginning with these path will be forbidden: /join/ (see in the options to disable this)
+17:28:50	Warning: 	Permanent Redirect for https://www.photoroom.com/tools/background-remover/
+17:28:50	Warning: 	File has moved from https://www.photoroom.com/tools/background-remover/ to /tools/background-remover
+17:28:50	Error: 	"Forbidden" (403) at link https://a.storyblok.com/f/191576/1200x800/b5a18b1d3c/instant-shadows-after.png (from https://www.photoroom.com/tools/instant-shadows)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 68 links scanned, 65 files written (31428511 bytes overall) [17930588 bytes received at 498071 bytes/sec], 17115060 bytes transferred using HTTP compression in 39 files, ratio 20%, 9.7 requests per connection
+(1 errors, 3 warnings, 0 messages)
